@@ -1,4 +1,4 @@
-<?php include_once("home.html"); ?>
+<?php include_once("home.php"); ?>
 <?php
 
 // In app/app.php, in place of the block starting with "$app->get('/',", put the following:
