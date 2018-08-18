@@ -48,7 +48,7 @@ Function Firs tLoad
 		});
 
         // Showcase Hover Change Image
-		$('.showcase-img:nth-child(2)').addClass('active');
+		$('.showcase-img:nth-child(7)').addClass('active');
 
 		$('.showcase-list li a').on('mouseenter', function() {
 			$('.showcase-list li a').addClass('disable');
